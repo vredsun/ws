@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "watch": ["src"],
+  "ext": "ts,js,json",
+  "ignore": [],
+  "exec": "NODE_ENV=development ts-node --files src/index.ts"
+}
